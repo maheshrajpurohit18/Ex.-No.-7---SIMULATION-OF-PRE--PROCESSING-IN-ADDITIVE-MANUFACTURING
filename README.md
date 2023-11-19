@@ -45,7 +45,7 @@
 
 
 ## Output:
-![image](https://github.com/SAKTHISWAR/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/8.png)
+![image](https://github.com/ATHMAJ03/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118753139/c99e8763-73d4-4932-b9f2-996aa6be6202)
 
 ### Name: MAHESH RAJ PUROHIT J
 ### Register Number: 212222240058
